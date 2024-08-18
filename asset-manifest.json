@@ -1,25 +1,23 @@
 {
   "files": {
     "main.css": "/portifolio/static/css/main.57307bae.css",
-    "main.js": "/portifolio/static/js/main.df888ce9.js",
+    "main.js": "/portifolio/static/js/main.9e2abff0.js",
     "static/js/453.64512fd7.chunk.js": "/portifolio/static/js/453.64512fd7.chunk.js",
     "static/media/food.png": "/portifolio/static/media/food.f7bcdf1b9402c8f7cba4.png",
     "static/media/clock.png": "/portifolio/static/media/clock.6c6352b3cdf284a00e0f.png",
     "static/media/fetch.png": "/portifolio/static/media/fetch.ce11cf8046f10195e114.png",
-    "static/media/project1-img.png": "/portifolio/static/media/project1-img.d0e705844a03936d7b7a.png",
     "static/media/searchCity.png": "/portifolio/static/media/searchCity.42c1628f0880970bb56d.png",
     "static/media/todo.png": "/portifolio/static/media/todo.a30dfc280f3db6447ee7.png",
     "static/media/forms.png": "/portifolio/static/media/forms.78f2ddc88c45712ac5aa.png",
     "static/media/LakshmiPrasanna.docx": "/portifolio/static/media/LakshmiPrasanna.a8d5a910238bc262adfe.docx",
     "static/media/PrasannaLogo.png": "/portifolio/static/media/PrasannaLogo.02ac0c00ad466f974932.png",
-    "static/media/login-form.jpg": "/portifolio/static/media/login-form.14ec05c82872c56ac880.jpg",
     "index.html": "/portifolio/index.html",
     "main.57307bae.css.map": "/portifolio/static/css/main.57307bae.css.map",
-    "main.df888ce9.js.map": "/portifolio/static/js/main.df888ce9.js.map",
+    "main.9e2abff0.js.map": "/portifolio/static/js/main.9e2abff0.js.map",
     "453.64512fd7.chunk.js.map": "/portifolio/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57307bae.css",
-    "static/js/main.df888ce9.js"
+    "static/js/main.9e2abff0.js"
   ]
 }
