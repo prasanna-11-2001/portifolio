@@ -1,0 +1,16 @@
+.navbar-container {
+    position: fixed;
+    width: 74.9%;
+    font-size: 20px;
+    background-color: #13395f;
+    color: #fff !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+}

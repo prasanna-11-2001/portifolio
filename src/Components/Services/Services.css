@@ -1,0 +1,27 @@
+.services-container {
+    height: 90vh;
+    margin-top: 100px;
+
+}
+
+.services-card {
+    border: 1px solid gray;
+    width: 300px;
+    height: 400px;
+    margin: 15px 20px;
+    border-radius: 10px;
+    background-color: #13395f;
+    color: white;
+}
+
+
+.s-icons {
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 15px 0px 10px 0px;
+}
+
+.s-desc {
+    margin: 10px 15px;
+    text-align: justify;
+}

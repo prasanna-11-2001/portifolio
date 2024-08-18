@@ -1,0 +1,27 @@
+.home-container {
+    height: 90vh;
+    padding-left: 100px;
+}
+
+.cus-btn {
+    margin-right: 10px;
+    padding: 10px 0;
+    width: 150px;
+    font-size: 21px;
+    font-weight: 600;
+    font-family: "roboto";
+    border: 0;
+    border-radius: 10px;
+    background-color: #13395f;
+    color: #fff;
+}
+
+.h-icons {
+    margin: 20px;
+    font-size: 32px;
+}
+
+.hireme-btn {
+    text-decoration: none;
+    color: #fff;
+}

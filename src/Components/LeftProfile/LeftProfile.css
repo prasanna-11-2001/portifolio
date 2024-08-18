@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* container */
+.profile-card-container {
+    background-color: #13395f;
+    height: 95vh;
+    width: 23vw;
+    border-radius: 15px;
+    padding: 25px 0px;
+    margin: 10px;
+    position: fixed;
+    color: #fff;
+}
+
+/* image */
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    border: 1px solid white;
+    box-shadow: 1px 2px 5px gray;
+}
+
+/* user name and designation */
+.s-user-name {
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+.desg {
+    /* rgb(212, 221, 235) */
+    background-color: #03203d;
+    color: white;
+    text-align: center;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "roboto";
+}
+
+hr {
+    width: 250px;
+    border-width: 2px;
+    color: black;
+    background-color: black;
+    height: 2px;
+    border-radius: 10px;
+}
+
+.icon {
+    font-size: 20px;
+    margin: 20px;
+    padding-bottom: 10px;
+
+}
